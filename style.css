@@ -1,0 +1,42 @@
+body {
+  margin: 0px;
+}
+
+header {
+  background: #4aaaa5;
+  font-size: 45px;
+  font-family: bold;
+  display: inline;
+}
+
+.new {
+  background: whitesmoke;
+  margin: 0 0 245px 0;
+  overflow: auto;
+  margin-left:50px;
+  padding-left:50px;
+}
+
+img {
+  float: left;
+}
+
+#a {
+  float: right;
+  margin-right: 30px;
+}
+#port {
+  float: right;
+  margin-right: 30px;
+}
+#con {
+  float: right;
+  margin-right: 30px;
+}
+#new {
+  padding: 20px;
+}
+
+#lack {
+  color: #4aaaa5;
+}
