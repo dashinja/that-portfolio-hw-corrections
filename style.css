@@ -13,8 +13,8 @@ header {
   background: whitesmoke;
   margin: 0 0 245px 0;
   overflow: auto;
-  margin-left:50px;
-  padding-left:50px;
+  margin-left: 50px;
+  padding-left: 200px;
 }
 
 img {
@@ -24,14 +24,19 @@ img {
 #a {
   float: right;
   margin-right: 30px;
+  padding-top: 10px;
 }
+
 #port {
   float: right;
   margin-right: 30px;
+  padding-top: 10px;
 }
 #con {
   float: right;
   margin-right: 30px;
+  padding-top: 10px;
+  padding-right: 180px;
 }
 #new {
   padding: 20px;
@@ -39,4 +44,15 @@ img {
 
 #lack {
   color: #4aaaa5;
+}
+#line {
+  margin-inline-end: 6.2cm;
+}
+footer {
+  text-align: center;
+  background: #666666;
+  height: 30px;
+  padding-top: 10px;
+  color: white;
+  border-top: 8px solid #4aaaa5;
 }
