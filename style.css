@@ -17,10 +17,6 @@ header {
   padding-left: 200px;
 }
 
-img {
-  float: left;
-}
-
 #a {
   float: right;
   margin-right: 30px;
@@ -57,7 +53,36 @@ footer {
   border-top: 8px solid #4aaaa5;
 }
 
-#img{
-  width:180px;
-  height:150px;
+#img {
+  width: 180px;
+  height: 150px;
+  float: left;
+}
+#img1 {
+  padding-right: 35px;
+  float: left;
+}
+
+#img2 {
+  padding-right: 30px;
+  margin-right:300px;
+  float:left;
+}
+
+#img3 {
+  padding-right: 30px;
+  padding-top: 60px;
+  float:left;
+}
+
+#img4 {
+  padding-right: 35px;
+  float:left;
+}
+
+#img5 {
+  padding-right: 30px;
+}
+hr {
+  margin-inline-end: 0.1cm;
 }
