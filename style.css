@@ -9,31 +9,33 @@ header {
   display: inline;
 }
 
-.new {
+.newNav {
   background: whitesmoke;
-  margin: 0 0 245px 0;
+  margin: 0 0 45px 0;
   overflow: auto;
   margin-left: 50px;
   padding-left: 200px;
 }
 
-#a {
+.newMainSpace {
+  background: whitesmoke;
+  margin: 0 0 45px 0;
+  overflow: auto;
+  margin-left: 50px;
+  padding-left: 200px;
+  padding: 11.8%;
+}
+
+.navPositioner {
   float: right;
   margin-right: 30px;
   padding-top: 10px;
 }
 
-#port {
-  float: right;
-  margin-right: 30px;
-  padding-top: 10px;
-}
-#con {
-  float: right;
-  margin-right: 30px;
-  padding-top: 10px;
+.navMakeItwork {
   padding-right: 180px;
 }
+
 #new {
   padding: 20px;
 }
@@ -58,31 +60,19 @@ footer {
   height: 150px;
   float: left;
 }
-#img1 {
-  padding-right: 35px;
+
+/* portfolio.html */
+.theOneClass {
   float: left;
+  margin: 30px 30px 30px 0;
 }
 
-#img2 {
-  padding-right: 30px;
-  margin-right:300px;
-  float:left;
+.notTooWideBox {
+  width: 450px;
+  padding: 20px 20px 20px 0;
+  overflow: auto;
 }
 
-#img3 {
-  padding-right: 30px;
-  padding-top: 60px;
-  float:left;
-}
-
-#img4 {
-  padding-right: 35px;
-  float:left;
-}
-
-#img5 {
-  padding-right: 30px;
-}
 hr {
   margin-inline-end: 0.1cm;
 }
